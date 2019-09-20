@@ -70,3 +70,9 @@ dirección de memoria 0x002 el resultado de suma los dos operando.
 de microchip MPASM, que coloque en la dirección de memoria de datos RAM 0x060 el primer operando
 cuyo valor es 0x20, en la dirección de memoria 0x001 el segundo operando cuyo valor es 0x26 y en la
 dirección de memoria 0x002 el resultado de suma los dos operando.
+
+
+2. Se desea elaborar un programa para el microcontrolador PIC18F4550 en lenguaje ensamblado
+de microchip MPASM, que coloque en la dirección de memoria de datos RAM 0x060 el primer operando
+cuyo valor es 0x20, en la dirección de memoria 0x001 el segundo operando cuyo valor es 0x26 y en la
+dirección de memoria 0x002 el resultado de suma los dos operando. (Moviendo el BSR).
